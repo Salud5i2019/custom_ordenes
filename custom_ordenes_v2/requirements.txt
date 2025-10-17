@@ -1,0 +1,8 @@
+Flask
+requests
+python-dotenv
+azure-cognitiveservices-vision-customvision
+msrest
+Flask-SQLAlchemy
+Flask-JWT-Extended
+openai
